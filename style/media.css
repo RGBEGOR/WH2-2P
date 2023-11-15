@@ -1,0 +1,677 @@
+/* 1300 */
+/* 1200 */
+/* 992 */
+/* 768 */
+/* 576 */
+/* 320 */
+
+@media (max-width: 3840px){
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+}
+
+@media (max-width: 1430px){
+.neanders{
+left: 600px;
+top: -50px;
+}  
+.neander{
+width: 450px;
+height: 350px;
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+}
+
+
+    
+
+@media (max-width: 1225px){
+.pro{
+position: absolute;
+left: 550px;
+top: -100px;              
+}
+.pros{
+width: 500px;
+height: 500px;
+}
+    
+}
+
+@media (max-width: 1200px){
+.midle__content2{
+left: -50px;
+width: 600px;
+padding-bottom: 50px;
+
+}
+
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+
+}
+       
+
+@media (max-width: 1099px){
+.header__list{
+width: 100%;
+}
+.footer__list{
+width: 100%;    
+}
+.container{
+max-width: 100%;
+}
+.nav{
+width: 100%;
+
+}
+.container__persons{
+max-width: 100%;
+
+}
+.arxs{
+position: absolute;
+left: -400px;
+top: 50px;
+       
+}
+.arx{
+width: 450px;
+height: 350px;
+}
+
+
+.neanders{
+left: 580px;
+top: 50px;
+}  
+.neander{
+width: 450px;
+height: 350px;
+}
+.midle__content3{
+width: 550px;
+
+}
+
+.pro{
+position: absolute;
+left: 580px;
+top: -50px;              
+}
+.pros{
+width: 450px;
+height: 450px;
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+.wrapper{
+width: 100%;
+
+}
+.container{
+width: 100%;
+
+}
+}
+
+@media (max-width: 1060px){
+
+.header__list{
+justify-content: center;
+gap: 50px;
+}
+.footer__list{
+justify-content: center;
+gap: 50px;    
+}
+
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+
+}
+
+@media (max-width: 1050px){
+.midle__content{
+padding-bottom: 50px;
+padding-left: 50px;
+
+}
+.pro{
+left: 580px;
+top: 50px;              
+}
+.pros{
+width: 350px;
+height: 350px;
+}
+
+.neanders{
+left: 550px;
+top: 30px;
+}  
+.neander{
+width: 400px;
+height: 350px;
+}
+
+.arxs{
+display: none;
+           
+}
+.arx{
+display: none;
+}
+.midle__content2{
+width: 750px;
+margin-left: 130px;
+}
+
+.arrow{
+width: 50px;
+height: 50px; 
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+}
+
+
+
+@media (max-width: 992px){
+.header__list{
+gap: 50px;
+justify-content: center;
+}
+.footer__list{
+gap: 50px;
+justify-content: center;
+}
+.neanders{
+display: none;
+}  
+.neander{
+width: 400px;
+height: 350px;
+}
+.midle__content3{
+width: 750px;
+margin-left: 80px;
+}
+
+.pro{
+display: none;              
+}
+.midle__content{
+ width: 750px;
+ margin-right: 50px;
+
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+
+}
+
+@media (max-width: 860px){
+.midle__content2{
+width: 630px;
+margin-right: 50px;      
+}
+.header__li{
+font-size: 16px;
+}
+
+.footer__li{
+font-size: 16px;    
+}
+.midle__content3{
+width: 630px;
+margin-left: 50px;
+}
+
+.person__intro{
+gap: 10px;
+}
+.person__intro1{
+gap: 10px;
+}
+.Plansh{
+width: 401px;
+height: 639px;
+display: inherit;
+padding-top: 30px;
+
+}
+.Lap{
+display: none;
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+}
+
+@media (max-width: 768px){
+.videos__content{
+flex-direction: column;
+align-items: center;
+}
+.midle__content{
+width: 650px;
+margin-right: 50px;       
+}
+.midle__content2{
+width: 580px;
+margin-right: 50px;      
+}
+
+.midle__content3{
+width: 580px;
+margin-left: 50px;
+}
+
+.Lap{
+width: 620px;
+height: 409px;
+
+}
+.header__list{
+ gap: 30px;
+}
+.footer__list{
+gap: 30px;
+}
+
+.person__intro{
+flex-direction: column;
+}
+.person__intro1{
+flex-direction: column;
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+
+}
+ 
+@media (max-width: 680px){
+.midle__content{
+width: 580px;
+margin-right: 50px;       
+}
+.midle__content2{
+width: 500px;
+margin-right: 50px;      
+}
+        
+.midle__content3{
+width: 500px;
+margin-left: 50px;
+}
+
+.Lap{
+width: 520px;
+height: 309px;   
+}
+
+.header__list{
+flex-wrap: wrap;
+row-gap: 10px;
+}
+
+.footer__list{
+flex-wrap: wrap;
+row-gap: 10px;
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+
+
+}
+
+@media (max-width: 620px){
+    .arheologi__intro-1{
+margin-left: 10px;
+margin-right: 10px;
+
+
+    }
+.midle__content{
+width: 480px;
+margin-right: 50px;       
+}
+.midle__content2{
+width: 450px;
+margin-right: 50px;      
+}
+                
+.midle__content3{
+width: 450px;
+margin-left: 50px;
+}
+.arrow{
+width: 50px;
+height: 50px;
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+    
+}
+
+@media (max-width: 576px){
+
+.midle__content{
+width: 480px;
+margin-right: 50px;       
+}
+.midle__content2{
+width: 450px;
+margin-right: 50px;
+margin-left: 100px;
+
+}
+                        
+.midle__content3{
+width: 450px;
+margin-left: 50px;
+margin-left: 40px;
+}    
+
+.arheologi__intro{
+margin-left: 50px;
+
+}
+.arrow{
+width: 50px;
+height: 50px;
+
+display: inherit; 
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: none; 
+}
+
+.button{
+    width: 70%;
+}
+}
+    
+@media (max-width: 550px){
+    .workimg{
+    width: 100%;
+    }
+    .vd-1{
+width: 420px;
+
+    }
+.midle__content{
+width: 450px;
+padding-left: 20px;
+gap: 15px;
+padding-bottom: 30px;
+
+}
+.midle__content2{
+width: 410px;
+margin-right: 20px;
+padding-bottom: 50px;
+
+}
+                                
+.midle__content3{
+width: 410px;
+margin-left: 50px;
+margin-left: 40px;
+gap: 15px;
+}  
+
+.Lap{
+width: 420px;
+height: 309px;   
+}
+
+.arheologi__intro{
+margin-left: 100px;
+row-gap: 20px;
+padding-bottom: 40px;
+
+}
+.arheologi__item{
+flex-direction: column;        
+gap: 10px;
+   
+}
+
+.arrow{
+width: 50px;
+height: 50px;
+display: none;    
+}
+.arrow-1{
+width: 50px;
+height: 50px;
+display: inherit;    
+}
+}
+
+@media (max-width: 500px){
+.midle__content{
+width: 380px;
+padding-left: 20px;
+gap: 15px;
+padding-bottom: 30px;
+
+        
+}
+.midle__content2{
+width: 350px;
+margin-right: 20px;
+padding-bottom: 50px;
+        
+}
+                                        
+.midle__content3{
+width: 350px;
+margin-left: 50px;
+margin-left: 30px;
+gap: 15px;
+}      
+}
+
+@media (max-width: 430px){
+    .vd-1{
+        width: 100%;
+        
+        }
+.h1{
+font-size: 25px;
+}
+.Exodus{
+    font-size: 20px;
+}
+.Lap{
+width:320px ;
+height:209px ;
+}
+.midle__content{
+width: 300px;
+padding-left: 20px;
+gap: 15px;
+padding-bottom: 30px;
+                
+}
+.midle__content2{
+width: 250px;
+
+padding-bottom: 50px;
+            
+}
+                                            
+.midle__content3{
+width: 250px;
+margin-left: 50px;
+margin-left: 40px;
+gap: 15px;
+} 
+.text1{
+font-size: 16px;
+padding-left: 15px;
+padding-right: 5px;
+
+
+}
+.text2{
+font-size: 16px;
+padding-left: 15px;
+padding-right: 5px;    
+}
+
+.container__persons{
+padding-bottom: 40px;
+}
+.Herodotus{
+    width: 200px;
+    height: 250px;
+}
+.Plansh{
+display: none;  
+}
+.Lap{
+display: none;
+}
+.Smartphone{
+width: 263px;
+height: 502px;
+display: inherit;
+padding-top: 30px;
+}
+
+}
+
+
+
+@media (max-width: 320px){
+.header__list{
+flex-direction: column;
+}
+
+.context__intro{
+padding-bottom: 40px;
+}
+.person__intro{
+margin-left:10px ;
+margin-right: 10px;
+}
+.person__intro1{
+margin-left:10px ;
+margin-right: 10px;
+}
+
+.midle__content{
+width: 300px;
+padding-left: 5px;
+gap: 15px;
+padding-bottom: 30px;
+                    
+}
+.midle__content2{
+width: 250px;
+margin-left: 70px;
+padding-bottom: 50px;
+                
+    }
+                                                
+.midle__content3{
+width: 250px;
+margin-left: 50px;
+margin-left: 20px;
+gap: 15px;
+} 
+.footer__list{
+flex-direction: column;
+}
+.vd-1{
+width: 100%;
+    
+}
+}
